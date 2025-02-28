@@ -16,6 +16,7 @@ Criar uma tela de com menu com uso de **Flexbox**, aplicando os conceitos aprend
 
 
 ## 🏁 Como Visualizar o Projeto
+https://guilhermeguedes1.github.io/menu-flex/
 
 
 ## 📜 Créditos
